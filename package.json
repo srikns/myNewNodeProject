@@ -1,0 +1,28 @@
+{
+  "name": "MyNewNodeProject",
+  "version": "0.1.0",
+  "description": "I am creating a node project",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.0.1",
+    "body-parser": "^1.0.2",
+    "ca-agent": "^1.0.0",
+    "ejs": "^1.0.0",
+    "express": "^4.0.0",
+    "express-session": "^1.0.3",
+    "connect-mongo": "^0.4.0",
+    "mongodb": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Library",
+    "node",
+    "does",
+    "stuff"
+  ],
+  "author": "srikant noorani",
+  "license": "apache"
+}
